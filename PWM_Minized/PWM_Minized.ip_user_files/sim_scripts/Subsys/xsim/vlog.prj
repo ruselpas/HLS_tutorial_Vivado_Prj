@@ -1,0 +1,13 @@
+verilog xil_defaultlib --include "../../../../PWM_Minized.srcs/sources_1/bd/Subsys/ipshared/ec67/hdl" --include "../../../../PWM_Minized.srcs/sources_1/bd/Subsys/ipshared/5bb9/hdl/verilog" --include "../../../../PWM_Minized.srcs/sources_1/bd/Subsys/ipshared/70fd/hdl" \
+"../../../bd/Subsys/ip/Subsys_processing_system7_0_0/sim/Subsys_processing_system7_0_0.v" \
+"../../../../PWM_Minized.srcs/sources_1/bd/Subsys/ipshared/b96b/hdl/verilog/PWM.v" \
+"../../../bd/Subsys/ip/Subsys_PWM_0_0/sim/Subsys_PWM_0_0.v" \
+"../../../../PWM_Minized.srcs/sources_1/bd/Subsys/ipshared/b08d/hdl/verilog/PWM_CTRL_CTRL_s_axi.v" \
+"../../../../PWM_Minized.srcs/sources_1/bd/Subsys/ipshared/b08d/hdl/verilog/PWM_CTRL.v" \
+"../../../bd/Subsys/ip/Subsys_PWM_CTRL_0_0/sim/Subsys_PWM_CTRL_0_0.v" \
+"../../../bd/Subsys/ip/Subsys_auto_pc_0/sim/Subsys_auto_pc_0.v" \
+"../../../bd/Subsys/sim/Subsys.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
